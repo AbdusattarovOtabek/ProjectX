@@ -26,4 +26,4 @@ Use login provided when creating superuser.
 Additional tools:
 If you want to exit local environment, then just put:
 
-deactivate
+<code>deactivate</code>
